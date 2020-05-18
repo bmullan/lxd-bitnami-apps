@@ -20,7 +20,7 @@ When the download is complete, *use your file browser to find that .run file* an
 
 **_Example_**: assume the script is in your Home directory
 
-$ ./lxd-bitnami-apps.sh container_name app_file_name
+$ ./lxd-bitnami-apps.sh container_name app_file_name.run
 
 Accept all the default answers...
 
