@@ -24,5 +24,5 @@ When the download is complete, *use your file browser to find that .run file* an
 
 Accept all the default answers...
 
-When the installation is Complete use your Host's Web Browser and point it to that LXD Containers 10.x.x.x IP address
-and you should be presented with your newly installed Bitnami Application's Web Page.
+When the installation is complete (3-5 minutes) use your Host's Web Browser and point it to that LXD Containers 10.x.x.x 
+IP address and *you should be presented with your newly installed Bitnami Application's Web Page*.
