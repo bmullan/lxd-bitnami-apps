@@ -5,7 +5,7 @@ into an LXD container which you will be prompted to provide the Container name f
 
 Download or create "lxd-bitnami-apps.sh" and make it executable (example:  $ chmod +x lxd-bitnami-apps.sh)
 
-You can find the entire Bitnami Application Catalog here:   https://bitnami.com/stacks/installer
+You can find the entire Bitnami Application Catalog here:   **https://bitnami.com/stacks/installer**
 
 Click on the "**Win/Mac/Linux Box**"
 
